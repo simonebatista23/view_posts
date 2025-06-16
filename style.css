@@ -154,7 +154,7 @@ header {
 .posts {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
+    gap: 1px;
     margin-top: 3px;
 }
 
